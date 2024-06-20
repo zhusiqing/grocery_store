@@ -1,0 +1,16 @@
+{
+  "name": "grocery_store",
+  "version": "1.0.0",
+  "description": "代码杂货铺",
+  "main": "lib/*",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhusiqing",
+  "homepage": "https://github.com/zhusiqing/grocery_store",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.4.29"
+  }
+}
